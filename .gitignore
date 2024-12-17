@@ -1,0 +1,15 @@
+*/node_modules
+*/.next
+*/build
+*/dist
+*/.DS_Store
+*/.vercel
+*/package-lock.json
+
+node_modules
+.next
+build
+dist
+.DS_Store
+.vercel
+package-lock.json
