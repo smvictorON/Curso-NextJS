@@ -3,6 +3,10 @@ Alguns projetos do curso de NextJS
 - Crud Basico: Next + Tailwind + Firebase Storage
 - Admin Template: Next + Tailwind + Firebase Auth + Cookies + Login
 
+![Demo Web](https://github.com/smvictorON/Curso-NextJS/blob/main/admin-template/images/login.png)
+![Demo Web](https://github.com/smvictorON/Curso-NextJS/blob/main/admin-template/images/app.png)
+
+
 ## Getting Started
 
 First, run the development server:

@@ -1,4 +1,5 @@
 import useAppData from "../../data/hook/useAppData"
+import AvatarUsuario from "./avatar-usuario"
 import BotaoAlternarTema from "./botao-alternar-tema"
 import Titulo from "./titulo"
 
@@ -17,8 +18,9 @@ export default function Cabecalho(props: CabecalhoProps) {
         titulo={props.titulo}
         subtitulo={props.subtitulo}
       />
-      <div className="flex flex-grow justify-end">
+      <div className="flex flex-grow justify-end items-center">
         <BotaoAlternarTema tema={ctx.tema} alternarTema={ctx.alternarTema}/>
+        <AvatarUsuario className="ml-3"/>
       </div>
     </div>
   )

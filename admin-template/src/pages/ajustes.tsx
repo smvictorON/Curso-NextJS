@@ -4,7 +4,7 @@ export default function Ajustes() {
   return (
     <div className={``}>
       <Layout titulo="Ajustes" subtitulo="Personalizar o sistema por aqui!">
-        <h3>conteudo</h3>
+        <h3>Conteúdo</h3>
       </Layout>
     </div>
   )
