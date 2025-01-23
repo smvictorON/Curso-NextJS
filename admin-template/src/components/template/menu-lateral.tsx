@@ -10,7 +10,7 @@ interface MenuLateralProps {
 
 export default function MenuLateral() {
   return (
-    <aside className="flex flex-col dark:bg-gray-900 dark:text-gray-200 bg-gray-20">
+    <aside className="bg-white flex flex-col dark:bg-gray-900 dark:text-gray-200 bg-gray-20">
       <div className="h-20 w-20 bg-gradient-to-r from-indigo-500 to-purple-800 flex flex-col items-center justify-center">
         <Logo/>
       </div>
